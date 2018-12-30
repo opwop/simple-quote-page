@@ -31,3 +31,9 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+@media (max-width:470px) {
+  .quote {
+  font-size: 1.7rem;
+  }
+}
+
